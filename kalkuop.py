@@ -1,7 +1,7 @@
 import tkinter as tk
 
 
-jendela = tk.Tk();
+jendela = tk.Tk()
 jendela.title("Kalkulator")
 jendela.geometry("320x450")
 jendela.configure(bg="#202124")
